@@ -4,7 +4,7 @@
 
 ## 📹 Demo
 
-[Watch the demo video here]([your-demo-video-link](https://drive.google.com/file/d/1ca1WKU7uRpt-4699bMjEMMyCOhXNOD4-/view?usp=sharing))
+[Watch the demo video here]((https://drive.google.com/file/d/1ca1WKU7uRpt-4699bMjEMMyCOhXNOD4-/view?usp=sharing))
 
 ---
 
